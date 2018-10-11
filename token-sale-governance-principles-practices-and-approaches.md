@@ -1,5 +1,5 @@
 ---
-description: Action list reflecting industry “best practices” for token offerings
+description: “best practices” for token offerings
 ---
 
 # Token Sale Governance: Principles, Practices and Approaches
