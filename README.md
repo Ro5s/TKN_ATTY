@@ -1,8 +1,12 @@
 # Welcome
 
-Hey! I’m Ross Campbell. I’m a corporate attorney living in Brooklyn, helping launch Dapps and ICO standards. 
+Hey! 
+
+I’m Ross Campbell. I’m a corporate attorney living in Brooklyn, helping launch Dapps and ICO standards. 
 
 Take a look around: I'll keep dropping crypto-law stuff.
+
+
 
 Neither here, nor there \(somewhere-in-between\):
 
