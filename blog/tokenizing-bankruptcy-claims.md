@@ -1,7 +1,7 @@
 ---
 description: >-
   Proposal: Use Digital Assets to Track Ownership of Bankruptcy Claims (e.g.,
-  ERC20 token) - July 30, 2018 via https://bit.ly/2IQPNSE)
+  ERC20 token)
 ---
 
 # Tokenizing Bankruptcy Claims
@@ -27,4 +27,6 @@ Short of that \(and perhaps the next best step\), transfer agreements should ref
 For now, it’s safe to assume most sub-creditors would want more than mere Bnkrpt01 tokens before pressing their claims at court. However, the above exercise should provide a ready way to track ownership and accustom the bankruptcy process to these tools. The prospect of automating ‘Notices of Transfer’ and related filings on court dockets directly following Bnkrpt01 transfers seems more than promising. Going further, Bnkrpt01 tokens could plug into other markets and exchange against a multitude of ERC20 digital assets \(e.g., ETH, GNT, and all the fun stuff waiting to get tokenized, such as customer loyalty points, game items, fractional real estate, etc.\)
 
 I will try and revisit this proposal in the coming weeks, as I think there is much more to chew on…. until then.
+
+// July 30, 2018 via [https://bit.ly/2IQPNSE](https://bit.ly/2IQPNSE)\)
 
