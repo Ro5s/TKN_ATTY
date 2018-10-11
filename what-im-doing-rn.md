@@ -1,5 +1,5 @@
 ---
-description: Guides & Forms & Templates aimed at Crypto Lawyering
+description: Guides / Forms / Templates for Crypto Lawyering
 ---
 
 # Resources
