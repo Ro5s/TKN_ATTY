@@ -28,5 +28,5 @@ For now, it’s safe to assume most sub-creditors would want more than mere Bnkr
 
 I will try and revisit this proposal in the coming weeks, as I think there is much more to chew on…. until then.
 
-// July 30, 2018 via [https://bit.ly/2IQPNSE](https://bit.ly/2IQPNSE)\)
+// July 30, 2018 via [https://bit.ly/2IQPNSE](https://bit.ly/2IQPNSE)
 
