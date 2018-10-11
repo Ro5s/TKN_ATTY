@@ -2,7 +2,7 @@
 description: 'Drafts for OpenLaw protocol #RoastMe'
 ---
 
-# OpenLaw - Templates
+# OpenLaw - Contract Templates
 
 **IOU.ETH,** _a_ ****_very simple IOU for delivery of Ether \(not legally enforceable w/o consideration reference\)_
 

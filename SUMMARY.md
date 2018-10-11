@@ -4,7 +4,8 @@
 * [Resources](what-im-doing-rn.md)
 * [Token Sale Governance: Principles, Practices and Approaches](token-sale-governance-principles-practices-and-approaches.md)
 * [SEC Registration Exemptions - Token Issuer Cheat Sheet](untitled.md)
-* [OpenLaw - Templates](openlaw-templates.md)
+* [OpenLaw - Contract Templates](openlaw-templates.md)
+* [BKP Transparency Scorecard - Templates](bkp-transparency-scorecard-templates.md)
 
 ## BLOG
 
