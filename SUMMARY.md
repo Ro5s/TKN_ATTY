@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [Resources](what-im-doing-rn.md)
 * [Token Sale Governance: Principles, Practices and Approaches](token-sale-governance-principles-practices-and-approaches.md)
-* [Untitled](untitled.md)
+* [SEC Registration Exemptions - Token Issuer Cheat Sheet](untitled.md)
 
 ## BLOG
 
