@@ -8,7 +8,7 @@ description: >-
 
 WIP: [_Token Sale Governance: Principles, Practices and Approaches_](https://goo.gl/jJak81)\_\_
 
-Please feel free to reach out to talk about this working doc. I am always looking for fresh eyes and ICO startup 'war stories.'
+Please feel free to reach out to talk about this working doc. I am always looking for fresh eyes and ICO startup 'war stories.' 
 
 Updates:
 
