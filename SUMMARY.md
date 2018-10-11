@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [What I'm doing rn](what-im-doing-rn.md)
 
 ## BLOG
 
