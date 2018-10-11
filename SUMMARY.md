@@ -11,4 +11,5 @@
 ## RECOMMENDED RESOURCES
 
 * [TaxingCryptos.org - 2018 Crypto Tax Calculator](recommended-resources/taxingcryptos.org-2018-crypto-tax-calculator.md)
+* [POA Network “Howey Test”](recommended-resources/poa-network-howey-test.md)
 
