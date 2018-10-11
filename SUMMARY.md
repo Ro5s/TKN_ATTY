@@ -4,8 +4,8 @@
 
 ## BLOG
 
-* [Tokenizing Bankruptcy Claims](blog/tokenizing-bankruptcy-claims.md)
 * [Comprehensive ICO standards and practices: Open call for collaboration](blog/comprehensive-ico-standards-and-practices-open-call-for-collaboration.md)
+* [Tokenizing Bankruptcy Claims](blog/tokenizing-bankruptcy-claims.md)
 
 ## RECOMMENDED RESOURCES
 
