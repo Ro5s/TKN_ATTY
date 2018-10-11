@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [What I'm doing rn](what-im-doing-rn.md)
+* [Resources](what-im-doing-rn.md)
+* [Token Sale Governance: Principles, Practices and Approaches](token-sale-governance-principles-practices-and-approaches.md)
+* [Untitled](untitled.md)
 
 ## BLOG
 

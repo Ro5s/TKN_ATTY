@@ -1,8 +1,12 @@
 ---
-description: (State of the Ross)
+description: Guides & Forms & Templates aimed at Crypto
 ---
 
-# What I'm doing rn
+# Resources
 
-\[ \_ \]
+
+
+
+
+
 
