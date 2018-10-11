@@ -2,21 +2,21 @@
 
 Hey! 
 
-I’m Ross Campbell. I’m a corporate attorney living in Brooklyn, helping launch Dapps and ICO standards. 
+I’m Ross Campbell. I’m a corporate attorney living in Brooklyn, helping launch Dapps and ICO standards. Here's my more respectable [LinkedIn page](https://www.linkedin.com/in/ross-campbell-058153aa/), where I don't have a mustache and look 12. 
 
-Take a look around for curated crypto-law stuff. I've been hitting this pretty full tilt lately, so hope it helps. Not legal advice!
+Take a look around -&gt;&gt; for curated crypto-law stuff. I've been hitting this pretty full tilt lately, so hope it helps. Not legal advice!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Learnings_
+_Learnings -_
 
-\*OpenLaw Protocol; Solidity; ICO Compliance; Token Project Due Diligence 
+OpenLaw Protocol; Solidity; ICO Compliance; Token Project Due Diligence 
 
-_Amongs_
+_Amongs -_
 
-\*Token Project Advisor \(at large-ish\); Member of Accord Project \(Venture & Token Sales WG\); The Brooklyn Project; LegalBlock 
+Token Project Advisor \(at large-ish\); Member of Accord Project \(Venture & Token Sales WG\); The Brooklyn Project; LegalBlock 
 
-_Previously_
+_Previously -_
 
 Corporate Associate at Hunton Andrews Kurth LLP \(NYC\); Judicial Intern \(FL\)
 
