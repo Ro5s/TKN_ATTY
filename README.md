@@ -4,7 +4,7 @@ Hey!
 
 I’m Ross Campbell. I’m a corporate attorney living in Brooklyn, helping launch Dapps and ICO standards. 
 
-Take a look around for curated crypto-law stuff. I'm pretty full-tilt lately, so hope it helps. Not legal advice!
+Take a look around for curated crypto-law stuff. I've been hitting this pretty full tilt lately, so hope it helps. Not legal advice!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
