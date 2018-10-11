@@ -1,7 +1,5 @@
 ---
-description: >-
-  Token project ‘action item’ list reflecting industry consensus on ICO “best
-  practices”
+description: Action list reflecting industry “best practices” for token offerings
 ---
 
 # Token Sale Governance: Principles, Practices and Approaches
