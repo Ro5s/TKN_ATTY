@@ -1,28 +1,22 @@
 ---
-description: 'Drafts for OpenLaw protocol #RoastMe'
+description: Demos of Smart Legal Agreements on OpenLaw
 ---
 
-# OpenLaw - Contract Templates
+# OpenLaw - Demos
 
-**IOU.ETH,** _a_ ****_very simple IOU for delivery of Ether \(not legally enforceable w/o consideration reference\)_
+I am currently working on two demos of Smart Legal Agreements on OpenLaw:
 
-**Code** \(place into OpenLaw\)**:**
+**\(i\) Asset Purchase Agreement,** w/ **escrow governed by smart contract;** 
 
-\centered IOU
+See**:** [Github ****progress](https://github.com/Ro5s/MasterEscrow) on Source Code for escrow contract\(s\).
 
-By \[\[Due Date: Date\]\], \[\[PartyA "What is the name of PartyA?"\]\]  }} agrees to pay \[\[PartyB "What is the name of PartyB?"\]\]  }} \[\[Number of ETH: Number\]\] ETH by transfer to: \[\[Ethereum address: EthAddress\]\]
+See also: [Simple Asset Purchase Agreement \(Ether Escrow\)](https://app.openlaw.io/template/Simple%20Asset%20Purchase%20Agreement%20%28Ether%20Escrow%29)
 
-\[\[PartyA \| Uppercase\]\]
+**\(+\)**  
 
-\[\[PartyA Signatory Email: Identity \| Signature\]\]
+**\(ii\)** **Assignment of Claim**, w/ **claim represented by token.**
 
- Address: \[\[PartyA Address: Address\]\]
+See**:** [Demo token on Rinkeby](https://rinkeby.etherscan.io/token/0x58c001573a515b5c22d5b4b4ca9eaedd186b0560)
 
-\[\[PartyB \| Uppercase\]\]
-
-\[\[PartyB Signatory Email: Identity \| Signature\]\]
-
- Address: \[\[PartyB Address: Address\]\]
-
- **Template Link** \(for registered OL members\): [https://app.openlaw.io/template/IOU.ETH](https://app.openlaw.io/template/IOU.ETH)
+See also: [Assignment of Claim \(Tokenized\)](https://app.openlaw.io/template/Assignment%20of%20Claim%20%28Tokenized%29)
 
