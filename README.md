@@ -6,7 +6,7 @@ description: '''State of the Ross'''
 
 Hey! 
 
-I’m Ross Campbell. I’m a corporate attorney living in Brooklyn, helping launch Dapps and Token Sale standards. Here's my more respectable [LinkedIn page](https://www.linkedin.com/in/ross-campbell-058153aa/), where I don't have a mustache and look 12. 
+I’m Ross Campbell. I’m a corporate attorney living in Brooklyn, helping launch digital token services and   related standards. Here's my more respectable [LinkedIn page](https://www.linkedin.com/in/ross-campbell-058153aa/), where I don't have a mustache and look 12. 
 
 Take a glance around here for curated crypto-law stuff. I've been hitting this pretty full tilt lately, so hope it helps. 
 
@@ -16,11 +16,11 @@ Not legal or financial advice!
 
 _Building_ - 
 
-Dapps on Ethereum; 'Smart' Legal Agreements; Token Sale Standards; Token Project Diligence Tools.
+Digital Token Custody/Staking Services; Dapps on Ethereum; 'Smart' Legal Agreements; Token Sale Standards; Token Project Diligence Tools.
 
 _Among -_
 
-Token Project Advisor \(at large-ish\); Member of Accord Project \(Venture & Token Sales WG\); The Brooklyn Project; LegalBlock. 
+OMGPool.org; Accord Project \(Venture & Token Sales WG\); The Brooklyn Project; LegalBlock; buildOMG; LegalHackers \(NY\); Ethos.io Product Council; Blockchain Island Club
 
 _Previously -_
 
